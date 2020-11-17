@@ -1,0 +1,6 @@
+OpenGeode-core >= 7.0.0, == 7.*
+OpenGeode-Geosciences >= 5.1.2, == 5.*
+Geode-Common >= 12.2.0, == 12.*
+Geode-Parameterization >= 1.3.2, == 1.*
+Geode-SimplexRemesh >= 3.2.0, == 3.*
+Geode-SimplexRemeshGeosciences >= 1.2.0, == 1.*
