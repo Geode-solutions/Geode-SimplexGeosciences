@@ -1,4 +1,4 @@
-<h1 align="center">Geode-SimplexRemeshGeosciences<sup><i>by Geode-solutions</i></sup></h1>
+<h1 align="center">Geode-SimplexGeosciences<sup><i>by Geode-solutions</i></sup></h1>
 <h3 align="center">Geosciences simplex remeshing for Geode-solutions OpenGeode module</h3>
 
 <!-- <p align="center">
@@ -19,8 +19,8 @@
   <!-- <img src="https://img.shields.io/badge/C%2B%2B-11-blue.svg" alt="Language">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg" alt="Semantic-release"> -->
-  <a href="https://slackin-opengeode.herokuapp.com">
-    <img src="https://slackin-opengeode.herokuapp.com/badge.svg" alt="Slack invite">
+  <a href="https://opengeode-slack-invite.herokuapp.com">
+    <img src="https://opengeode-slack-invite.herokuapp.com/badge.svg" alt="Slack invite">
   </a>
   <a href="https://doi.org/10.5281/zenodo.4427907">
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4427907.svg" alt="DOI">
@@ -40,10 +40,10 @@ Please contact us directly for more information by [slack](https://slackin-openg
 This repository provides Jupyter notebooks used as example usage of the module.
 For more general documentation on OpenGeode, check out our live documentation, visit [docs.geode-solutions.com](https://docs.geode-solutions.com).
 
-Installing Geode-Conversion is done by using pip command ```pip install Geode-SimplexRemeshGeosciences``` and add ```import geode_simplexremeshgeosciences``` in your Python script.
+Installing Geode-Conversion is done by using pip command ```pip install Geode-SimplexGeosciences``` and add ```import geode_simplexgeosciences``` in your Python script.
 
 ## Questions
 
 For questions and support please use the official [slack](https://slackin-opengeode.herokuapp.com) and go to the channel #help. The issue list of this repo is exclusively for bug reports and feature requests. 
 
-Copyright (c) 2019 - 2021, Geode-solutions
+Copyright (c) 2019 - 2023, Geode-solutions
